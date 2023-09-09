@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+<div align="center"><img src="https://final-destination.space/images/8/89/Gifff.gif"></div>
 <h1 align="center">Hi 👋, I'm Elnur Mahmudov</h1>
 <h3 align="center">Full stack web developer</h3>
 
@@ -14,3 +14,4 @@
 <a href="https://fb.com/shamkirli57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamkirli57" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.mhmdov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mhmdov" height="30" width="40" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
