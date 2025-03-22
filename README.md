@@ -34,7 +34,7 @@
     <img src="https://www.svgrepo.com/show/303536/wordpress-icon-logo.svg" alt="wordpress" width="40" height="40"/> 
   </a> 
   <a href="https://www.opencart.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/O/opencart-logo-7E8F6C3C74-seeklogo.com.png" alt="OpenCart" width="40" height="40"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/238_Opencart_logo-512.png" alt="OpenCart" width="40" height="40"/>
 </a>
 </p><hr>
 
