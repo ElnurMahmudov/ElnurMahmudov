@@ -33,6 +33,9 @@
   <a href="https://www.wordpress.net" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303536/wordpress-icon-logo.svg" alt="wordpress" width="40" height="40"/> 
   </a> 
+  <a href="https://www.opencart.com" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/O/opencart-logo-7E8F6C3C74-seeklogo.com.png" alt="OpenCart" width="40" height="40"/>
+</a>
 </p><hr>
 
 <h3 align="center">Connect with me:</h3>
