@@ -43,6 +43,6 @@
 <a href="https://twitter.com/elnurmahmudov57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elnurmahmudov57" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elnur-mahmudov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elnur-mahmudov" height="30" width="40" /></a>
 <a href="https://fb.com/elnurprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elnurprogrammer" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.mhmdov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mhmdov" height="30" width="40" /></a>
+<a href="https://instagram.com/elnur.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mhmdov" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
